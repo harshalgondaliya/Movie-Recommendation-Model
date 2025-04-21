@@ -15,6 +15,20 @@ The similarity matrix file (`similarity.pkl`, ~176MB) is **ESSENTIAL** for this 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white)
 
+## 📸 Project Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+*Main interface of the Movie Suggestion System with search and genre filter options*
+
+### Movie Selection
+![Movie Selection](screenshots/movie_selection.png)
+*Example of selecting "Pirates of the Caribbean: At World's End" from the dropdown*
+
+### Movie Recommendations
+![Movie Recommendations](screenshots/recommendations.png)
+*Detailed view of movie recommendations with movie information, ratings, and interactive buttons*
+
 ## ✨ Features
 
 - **Smart Movie Recommendations**: Get personalized movie suggestions based on your selected movie or preferred genres
